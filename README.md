@@ -26,8 +26,8 @@ I'm an aspiring Front-End Developer passionate about coding and problem-solving.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielaEvtimova&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaEvtimova&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### 😂 Dev Meme of the Week
+<img src='https://library.animatron.io/templates/ce2f8b60760e8d3f357fb038/twitter_square_1080_thumb.jpg' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GabrielaEvtimova&icon=5&color=12)](https://visitcount.itsvg.in)
