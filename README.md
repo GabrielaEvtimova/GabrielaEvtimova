@@ -8,7 +8,7 @@ I'm an aspiring Front-End Developer passionate about coding and problem-solving.
 <br>
 🔭 I’m currently working on learning new technologies and improving my skills. 
 <br>
-🌱 I’m currently learning TypeScript<br>📄 Know about my experiences - [CV_Gabriela-Evtimova](https://app.enhancv.com/share/23bb24b2/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+🌱 I’m currently learning TypeScript<br>📄 Know about my experiences - https://bit.ly/CV-Gabriela-Evtimova
 <br>
 ⚡ Fun fact: My record for coding without interruption is 25 hours 🤓
 <br>
