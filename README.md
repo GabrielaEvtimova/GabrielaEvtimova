@@ -3,14 +3,14 @@
 <br>
 I'm a passionate developer fueled by deep focus, relentless problem-solving, and the joy of building things that work. 
 
-Over the past year, I’ve been part of a cross-functional team developing four diverse projects — from commercial chatbots to enterprise supply chain software. My focus has been on contributing to product innovation and user experience by taking ownership of key frontend features and delivering scalable, maintainable solutions. Passionate about clean, component-driven development, I work primarily with React, TypeScript, React Native, and Tailwind, while constantly expanding my technical skills and attention to detail.
+Over the past year, I’ve been part of a cross-functional team developing four diverse projects - from commercial chatbots and a mobile fitness app to enterprise supply-chain software. My focus has been on contributing to product innovation and user experience by taking ownership of key frontend features and delivering scalable, maintainable solutions. Passionate about clean, component-driven development, I work primarily with React, TypeScript, React Native, and Tailwind, while constantly expanding my technical skills and attention to detail.
 <br>
 <br>
-👀 I’m interested in programming, MOBA games, and climbing.
+👀 I’m interested in programming, MOBA games, climbing, and snowboarding.
 <br>
 🔭 I’m currently working on learning new technologies and improving my skills. 
 <br>
-🌱 I’m currently learning React Native<br>📄 Know about my experiences - [Gabriela_Evtimova_CV](https://app.enhancv.com/share/92c1a200/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+🌱 I’m currently learning React Native<br>📄 Know about my experiences - [Gabriela_Evtimova_CV]([https://app.enhancv.com/share/92c1a200/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/e209008d/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic))
 <br>
 ⚡ Fun fact: My record for coding without interruption is 25 hours 🤓
 <br>
